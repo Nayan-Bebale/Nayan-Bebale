@@ -1,8 +1,9 @@
 <div align="center" width="50">
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/title.gif" alt="Hello Coders" width="80%" style="height: 35vh;" /> 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/title.gif" alt="Hello Coders" width="80%" height="250px"/>
 </div>
+
 
 <!--
 <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/coding.gif" alt="Coding in Progress" width="80%" height="250px" style="border-radius:20px;"/>
