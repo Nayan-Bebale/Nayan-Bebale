@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-# <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="70%"/> <br>
+ <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/title.gif" alt="Hello Coders" width="70%" height="250px"/> <br>
 <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/coding.gif" alt="Coding in Progress" width="80%" height="250px" style="border-radius:20px;"/>
 
   
@@ -60,9 +60,9 @@ class About extends Me {
 <div align="center">
 <a href="https://github.com/Nayan-Bebale">
 
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+[![](https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/main/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/main/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/main/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/main/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/main/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </a>
 
