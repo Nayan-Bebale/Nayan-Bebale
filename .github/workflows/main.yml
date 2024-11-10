@@ -1,4 +1,5 @@
 name: GitHub-Profile-Summary-Cards
+
 on:
   schedule:
     - cron: "* */24 * * *" # runs every 24 hours
@@ -8,10 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Configure Git Safe Directory
+        run: git config --global safe.directory /home/runner/work/Nayan-Bebale/Nayan-Bebale
+
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_SUMMARY_TOKEN }}  # Or use PROFILE_SUMMARY_TOKEN if needed
         with:
           USERNAME: Nayan-Bebale
           BRANCH_NAME: "main"
