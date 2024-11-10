@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/coding.gif" alt="Coding in Progress" width="80%" height="250px" style="border-radius:20px;"/>
 -->
   
-<p><strong> Busy coding & learning </strong></p>
+<p><strong> Busy coding & Vibing to : </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31su23vt463trewp75sqvylr3xda?si=5ea6a3ee0d1b4395) <br>
 
