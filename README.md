@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
- <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/title.gif" alt="Hello Coders" width="70%" height="250px"/> <br>
+ <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/title.gif" alt="Hello Coders" width="80%" height="250px"/> <br>
 <!--
 <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/coding.gif" alt="Coding in Progress" width="80%" height="250px" style="border-radius:20px;"/>
 -->
