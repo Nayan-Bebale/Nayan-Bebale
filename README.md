@@ -25,7 +25,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 
-- 🏦 I’m currently a tech wizard diving deep into AI and Backend Development (no potions involved) <img src="https://media.giphy.com/media/j5QcmXoFWl6Xe/giphy.gif" width="40">
+- 🏦 I’m currently a tech wizard diving deep into AI and Backend Development (no potions involved) <img src="https://media.giphy.com/media/j5QcmXoFWl6Xe/giphy.gif" width="30">
 - 📝 I occasionally write tech musings on GitHub — feel free to drop in!
 - 💻 Current toolkit includes: Python, Django, SQL, HTML/CSS, and sketchy doodles
 - 📖 Now reading: Atomic Habits (attempting to build a habit of actually reading it)
