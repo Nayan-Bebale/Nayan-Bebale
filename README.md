@@ -1,9 +1,14 @@
 <div align="center" width="50">
-
+<!-- Black Card
 <div align="center">
     <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/title.gif" alt="Hello Coders" width="80%" height="250px"/>
 </div>
+-->
 
+<!-- white Card -->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/whiteBord.gif" alt="Hello Coders" width="80%" height="250px"/>
+</div>
 
 <!--
 <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/coding.gif" alt="Coding in Progress" width="80%" height="250px" style="border-radius:20px;"/>
