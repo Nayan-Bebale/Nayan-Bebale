@@ -48,7 +48,7 @@
 ---
 
 ### 🏆 Badges
-<a href="https://badgr.com/public/assertions/s4QqLs5cTmypsxQHNufQxQ?identity__email=nayanbebale2003@gmail.com">
+<a href="https://badgr.com/public/assertions/s4QqLs5cTmypsxQHNufQxQ?identity__email=nayanbebale2003@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/postmanBag.png" width='150px'>
 </a>
 
