@@ -45,6 +45,15 @@
 ### <img align='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width='11000' />
 
+---
+
+### 🏆 Badges
+<a href="https://badgr.com/public/assertions/s4QqLs5cTmypsxQHNufQxQ?identity__email=nayanbebale2003@gmail.com">
+    <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/postmanBag.png" width='150px'>
+</a>
+
+--- 
+
 ### 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
