@@ -48,9 +48,13 @@
 ---
 
 ### 🏆 Badges
+<span>
 <a href="https://badgr.com/public/assertions/s4QqLs5cTmypsxQHNufQxQ?identity__email=nayanbebale2003@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/postmanBag.png" width='150px'>
+    <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/postmanBag.png" width='100px'>
 </a>
+<img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/144ed55471a0e0de112f49fd7fdfaa666263dd94/python.svg" width='100px'>
+<img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/144ed55471a0e0de112f49fd7fdfaa666263dd94/database.svg" width='100px'>
+</span>
 
 --- 
 
