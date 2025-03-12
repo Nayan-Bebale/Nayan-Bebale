@@ -83,21 +83,19 @@ class About extends Me {
   };
 }
 ```
-<!--
-### 👨‍💻 Projects
-- **[Udyog Sarthi](https://github.com/Nayan-Bebale/Udhyog-Sarthi-App)** - AI-powered platform for connecting disabled individuals with jobs and education.
-- **[SmartSaver](https://github.com/Nayan-Bebale/MutualFund)** - Mutual fund analysis and recommendation app with 92% accuracy.
-- **[CineMatch](https://github.com/Nayan-Bebale/Top_movies_recommandation)** - Movie recommendation app with real-time user authentication.
 
-### 🎖️ Achievements
-- Finalist in **SIH 2023** and **Hack'dore** hackathons.
-- Patent holder for "System and Method for Automatically Generating an Application Platform Based on User's Requirements Using IoT" (Issued: 12 May 2023).
-- Organized events and served as Placement Coordinator at Sage University Indore.
+### 🏆 Projects
+<span>
+<a href="https://web-production-4a95.up.railway.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/Thumbnail.png" width='300px'>
+</a>
 
-### 📫 Contact Me
-- Portfolio: [nayanportfolio-0b45.onrender.com](https://nayanportfolio-0b45.onrender.com/)
-- Email: [nayanbebale2003@gmail.com](mailto:nayanbebale2003@gmail.com)
--->
+<a href="https://nayan23.pythonanywhere.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/smartSaver.png" width='300px' height="170px>
+</a>
+</span>
+
+--- 
 <div align="center">
 <a href="https://github.com/Nayan-Bebale">
 
