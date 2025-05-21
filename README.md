@@ -16,7 +16,7 @@
   
 <p><strong> Busy coding & Vibing to : </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/31su23vt463trewp75sqvylr3xda?si=5ea6a3ee0d1b4395) <br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31su23vt463trewp75sqvylr3xda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nayan-Bebale&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNayan-Bebale&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
