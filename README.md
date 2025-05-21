@@ -85,7 +85,7 @@ class About extends Me {
 
 ### 🏆 Projects
 <span>
-<a href="https://web-production-4a95.up.railway.app/" target="_blank">
+<a href="https://youtu.be/sBlVv0sz3U0?si=CDhuePH_dSD18iqz" target="_blank">
     <img src="https://raw.githubusercontent.com/Nayan-Bebale/Nayan-Bebale/refs/heads/main/Thumbnail.png" width='300px'>
 </a>
 
