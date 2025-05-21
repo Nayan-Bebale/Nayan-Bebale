@@ -19,7 +19,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31su23vt463trewp75sqvylr3xda&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nayan-Bebale&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNayan-Bebale&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayan_Bebale-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nayan-bebale-63a62923a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nayan--Bebale-lightgrey?style=flat&logo=github)](https://github.com/Nayan-Bebale)
 
